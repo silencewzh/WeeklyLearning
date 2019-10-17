@@ -2,7 +2,6 @@
 
 绝大部分摘抄自 https://react.docschina.org/ ，有部分删改，例子详情可官网查看
 
-[TOC]
 
 ## JSX学习
 
